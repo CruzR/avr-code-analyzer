@@ -1,2 +1,5 @@
 # Emacs backup files
 *~
+
+# Pickle files created to store parsed data
+*.pickle
