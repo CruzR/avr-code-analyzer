@@ -5,6 +5,7 @@ Computes various code metrics for AVR-GCC projects.
 ## Currently Implemented Metrics ##
 
 * Stack usage per function
+* Partial static call graphs
 
 ## Metrics Wishlist ##
 
