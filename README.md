@@ -10,3 +10,8 @@ Computes various code metrics for AVR-GCC projects.
 
 * Accumulated stack usage per function
 * Cycle/recursion detection
+
+## License ##
+
+AVR Code Analyzer is free software and is distributed under the MIT
+license. For the complete license text, read LICENSE.
