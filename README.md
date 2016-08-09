@@ -4,10 +4,9 @@ Computes various code metrics for AVR-GCC projects.
 
 ## Currently Implemented Metrics ##
 
-None.
+* Stack usage per function
 
 ## Metrics Wishlist ##
 
-* Stack usage per function
 * Accumulated stack usage per function
 * Cycle/recursion detection
